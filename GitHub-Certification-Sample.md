@@ -3,14 +3,14 @@
 ## 📚 Table of Contents
 
 - [Purpose of the Guide](#purpose-of-the-guide)
-- [Week 1: Introduction to GitHub Copilot](#week-1-introduction-to-github-copilot)
-- [Week 2: AI-Assisted Code Generation](#week-2-ai-assisted-code-generation)
-- [Week 3: Debugging & Testing with Copilot](#week-3-debugging--testing-with-copilot)
-- [Week 4: Responsible AI & Security](#week-4-responsible-ai--security)
-- [Week 5: Advanced Copilot Features](#week-5-advanced-copilot-features)
-- [Week 6: Collaboration & Workflow Optimization](#week-6-collaboration--workflow-optimization)
-- [Week 7: Exam Practice & Mock Tests](#week-7-exam-practice--mock-tests)
-- [Week 8: Final Review & Strategy](#week-8-final-review--strategy)
+- [Section 1: Introduction to GitHub Copilot](#Section-1-introduction-to-github-copilot)
+- [Section 2: AI-Assisted Code Generation](#Section-2-ai-assisted-code-generation)
+- [Section 3: Debugging & Testing with Copilot](#Section-3-debugging--testing-with-copilot)
+- [Section 4: Responsible AI & Security](#Section-4-responsible-ai--security)
+- [Section 5: Advanced Copilot Features](#Section-5-advanced-copilot-features)
+- [Section 6: Collaboration & Workflow Optimization](#Section-6-collaboration--workflow-optimization)
+- [Section 7: Exam Practice & Mock Tests](#Section-7-exam-practice--mock-tests)
+- [Section 8: Final Review & Strategy](#Section-8-final-review--strategy)
 - [General Exam Tips & Tricks](#general-exam-tips--tricks)
 - [Condensed 50-Question Mock Exam](#condensed-50-question-mock-exam)
 
@@ -18,11 +18,11 @@
 
 ### Purpose of the Guide
 
-This guide is designed to prepare you for the GitHub Copilot Certification (GH-300). It provides structured weekly learning, quizzes, consolidated answers, exam tips, and condensed mock exam.
+This guide is designed to prepare you for the GitHub Copilot Certification (GH-300). It provides structured Sectionly learning, quizzes, consolidated answers, exam tips, and condensed mock exam.
 
 ---
 
-### Week 1: Introduction to GitHub Copilot
+### Section 1: Introduction to GitHub Copilot
 
 **Topics:**
 
@@ -39,7 +39,7 @@ This guide is designed to prepare you for the GitHub Copilot Certification (GH-3
 
 ### 📚 Reading Materials
 
-#### 1. What Copilot is & IDE Integration -Reading
+#### 1. What Copilot is & IDE Integration - Reading
 
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot) Official docs covering features, supported IDEs, and workflows
 
@@ -47,7 +47,7 @@ This guide is designed to prepare you for the GitHub Copilot Certification (GH-3
 
 - [GitHub Copilot Overview](https://github.com/features/copilot) GitHub's feature page with integration examples
 
-#### 2. Licensing & Setup -Reading
+#### 2. Licensing & Setup - Reading
 
 - [Assigning GitHub Copilot Licenses in Enterprise](https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/assign-licenses) Enterprise-level license management
 
@@ -55,7 +55,7 @@ This guide is designed to prepare you for the GitHub Copilot Certification (GH-3
 
 - [Enable GitHub Copilot License](https://www.c-sharpcorner.com/article/how-to-enable-github-copilot-license/) Walkthrough for individual licensing
 
-#### 3. Prompt Engineering -Reading
+#### 3. Prompt Engineering - Reading
 
 - [Prompt Engineering for GitHub Copilot Chat](https://docs.github.com/en/copilot/concepts/prompting/prompt-engineering) Official strategies for better prompts
 
@@ -65,25 +65,25 @@ This guide is designed to prepare you for the GitHub Copilot Certification (GH-3
 
 ---
 
-### 🎥 Video Tutorials - Week 1
+### 🎥 Video Tutorials - Section 1
 
 To complement the reading, here are video-based resources that walk through Copilot in action:
 
-### 📚 GitHub Copilot Video Resources -Week 1
+### 📚 GitHub Copilot Video Resources - Section 1
 
-#### 1. What Copilot is & IDE Integration -Video
+#### 1. What Copilot is & IDE Integration - Video
 
 - [GitHub Copilot in Visual Studio Code (Official GitHub Channel)](https://www.youtube.com/watch?v=OZJwJf6Jq0o) Walkthrough of Copilot in VS Code
 
 - [GitHub Copilot in JetBrains IDEs](https://www.youtube.com/watch?v=Zz8pPzZzR9o) Demonstration of Copilot in IntelliJ and PyCharm
 
-#### 2. Licensing & Setup -Video
+#### 2. Licensing & Setup - Video
 
 - [Getting Started with GitHub Copilot (Microsoft Learn)](https://www.youtube.com/watch?v=4XkS2Q7t5xY) Covers setup, licensing, and enabling Copilot
 
 - [GitHub Copilot Business Overview](https://www.youtube.com/watch?v=YwVjvZbX9mM) Explains enterprise licensing and rollout
 
-#### 3. Prompt Engineering -Video
+#### 3. Prompt Engineering - Video
 
 - [Prompt Engineering with GitHub Copilot Chat](https://www.youtube.com/watch?v=QkzXzFZkQnM) Shows how different prompts affect Copilot's output
 
@@ -297,7 +297,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 ---
 
-### Week 2: AI-Assisted Code Generation
+### Section 2: AI-Assisted Code Generation
 
 **Topics:**
 
@@ -317,7 +317,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 - [Microsoft Learn](https://learn.microsoft.com/en/training/modules/use-github-copilot)
 
-#### 📚 Reading Materials - Week 2
+#### 📚 Reading Materials - Section 2
 
 - [GitHub Docs Tutorials:](https://docs.github.com/en/copilot/tutorials)
 
@@ -339,7 +339,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 - [Coderabbit Blog 10 Advanced Copilot Tips & Tricks:](https://www.coderabbit.ai/blog/github-copilot-best-practices-10-tips-and-tricks-that-actually-help)
 
-#### 🎥 Video Tutorials - Week 2
+#### 🎥 Video Tutorials - Section 2
 
 - [GitHub Copilot Code Generation Tutorial (YouTube):](https://www.youtube.com/watch?v=3vR6kRrj0xA)
 
@@ -553,7 +553,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 ---
 
-### Week 3: Debugging & Testing with Copilot
+### Section 3: Debugging & Testing with Copilot
 
 **Topics:**
 
@@ -573,7 +573,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 - [Microsoft Learn](https://learn.microsoft.com/en/training/modules/github-copilot-testing)
 
-#### 📚 Reading Materials - Week 3
+#### 📚 Reading Materials - Section 3
 
 - [GitHub Blog: How to Debug Code with Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-debug-code-with-github-copilot/)
 
@@ -585,7 +585,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 - [GitHub Blog Tutorial: Writing, Debugging, Reviewing, and Shipping Code Faster with Copilot](https://github.blog/ai-and-ml/github-copilot/-developers-guide-to-writing-debugging-reviewing-and-shipping-code-faster-with-github-copilot/)
 
-#### 🎥 Video Tutorials - Week 3
+#### 🎥 Video Tutorials - Section 3
 
 - [GitHub Copilot Debugging Overview (YouTube)](https://www.youtube.com/watch?v=VZzFvQGf1nY)
 
@@ -799,7 +799,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 ---
 
-### Week 4: Responsible AI & Security
+### Section 4: Responsible AI & Security
 
 **Topics:**
 
@@ -819,7 +819,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 - [Microsoft Learn](https://learn.microsoft.com/en/training/modules/responsible-ai)
 
-#### 📚 Reading Materials - Week 4
+#### 📚 Reading Materials - Section 4
 
 - [GitHub Docs: Responsible Use of Copilot](https://docs.github.com/en/copilot/responsible-use)
 
@@ -837,7 +837,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 - [IEEE Xplore: Considering Responsible AI with GitHub Copilot](https://ieeexplore.ieee.org/document/10952500)
 
-#### 🎥 Video Tutorials - Week 4
+#### 🎥 Video Tutorials - Section 4
 
 - [GitHub Copilot Security Demo: Secure Coding Practices](https://www.youtube.com/watch?v=2Rr2xYj7uYg)
 
@@ -1053,7 +1053,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 ---
 
-### Week 5: Advanced Copilot Features
+### Section 5: Advanced Copilot Features
 
 **Topics:**
 
@@ -1073,7 +1073,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 - [Microsoft Learn](https://learn.microsoft.com/en/training/modules/github-copilot-advanced)
 
-#### 📚 Reading Materials - Week 5
+#### 📚 Reading Materials - Section 5
 
 - [GitHub Copilot Features](https://docs.github.com/en/copilot/get-started/features)
 
@@ -1093,7 +1093,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 - [Copilot Workshops and Labs](https://github.com/microsoft/github-copilot-workshops-labs)
 
-#### 🎥 Video Tutorials - Week 5
+#### 🎥 Video Tutorials - Section 5
 
 - [GitHub Copilot Advanced Features Overview](https://www.youtube.com/watch?v=4nPZ8ZzO6uM)
 
@@ -1311,7 +1311,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 ---
 
-### Week 6: Collaboration & Workflow Optimization
+### Section 6: Collaboration & Workflow Optimization
 
 **Topics:**
 
@@ -1331,7 +1331,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 - [Microsoft Learn](https://learn.microsoft.com/en/training/modules/github-copilot-collaboration)
 
-#### 📚 Reading Materials - Week 6
+#### 📚 Reading Materials - Section 6
 
 [GitHub Copilot Documentation (official)](https://docs.github.com/en/copilot)
 
@@ -1351,7 +1351,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 [How to Get Started with GitHub Copilot for Business (Microsoft Learn Training)](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot-for-business/4-how-to-get-started)
 
-#### 🎥 Video Tutorials - Week 6
+#### 🎥 Video Tutorials - Section 6
 
 [GitHub Copilot Bootcamp: Collaboration and Deploy](https://learn.microsoft.com/en-us/shows/github-copilot-bootcamp/collaboration-and-deploy-with-github-copilot)
 
@@ -1569,7 +1569,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 ---
 
-### Week 7: Exam Practice & Mock Tests
+### Section 7: Exam Practice & Mock Tests
 
 **Topics:**
 
@@ -1589,7 +1589,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 - [Microsoft Learn](https://learn.microsoft.com/en/training/modules/github-copilot-exam-prep)
 
-#### 📚 Reading Materials - Week 7
+#### 📚 Reading Materials - Section 7
 
 - [GitHub Learn Certification Details](https://learn.github.com/certification/COPILOT)
 
@@ -1613,7 +1613,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 - [Test Prep Lab Free GH'300 Practice Test](https://www.testpreplab.com/GH-300-free-practice-test/)
 
-#### 🎥 Video Tutorials - Week 7
+#### 🎥 Video Tutorials - Section 7
 
 - [GH'300 GitHub Copilot Exam Prep Guide](https://www.youtube.com/watch?v=JX9jZcZpJjY)
 
@@ -1767,7 +1767,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
     A) Immediately after practice exams
 
-    B) Weeks later only
+    B) Sections later only
 
     C) Never
 
@@ -1827,7 +1827,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 ---
 
-### Week 8: Final Review & Strategy
+### Section 8: Final Review & Strategy
 
 **Topics:**
 
@@ -1847,7 +1847,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 - [Microsoft Learn](https://learn.microsoft.com/en/training/modules/github-copilot-final-review)
 
-#### 📚 Reading Materials - Week 8
+#### 📚 Reading Materials - Section 8
 
 [GitHub Copilot Certification Study Guide (community-driven, includes mock questions and exercises](https://github.com/Berezhnyk/github-copilot-certification-study-guide)
 
@@ -1863,7 +1863,7 @@ To complement the reading, here are video-based resources that walk through Copi
 
 [Ace4Sure Free GitHub Copilot Certification Exam Practice Questions (updated November 2025)](https://www.ace4sure.com/GitHub/free-GitHub-Copilot-real-questions.html)
 
-#### 🎥 Video Tutorials - Week 8
+#### 🎥 Video Tutorials - Section 8
 
 [GitHub Copilot Certification Exam Prep (structured review and strategy)](https://www.youtube.com/watch?v=Qy0Z7wFvF3M)
 
@@ -2081,11 +2081,11 @@ To complement the reading, here are video-based resources that walk through Copi
 
 ## Consolidated Answer Key & Explanations
 
-Below are the consolidated answers for all **160 questions** across Weeks 1a-8. Each entry includes the correct option and concise explanation.
+Below are the consolidated answers for all **160 questions** across Sections 1a-8. Each entry includes the correct option and concise explanation.
 
 ---
 
-### Week 1: Introduction to GitHub Copilot 📚
+### Section 1: Introduction to GitHub Copilot 📚
 
 1. B Copilot is an AI-powered coding assistant.
 
@@ -2129,7 +2129,7 @@ Below are the consolidated answers for all **160 questions** across Weeks 1a-8. 
 
 ---
 
-### Week 2: AI-Assisted Code Generation 🧠
+### Section 2: AI-Assisted Code Generation 🧠
 
 1. Descriptive prompts yield best results.
 
@@ -2173,7 +2173,7 @@ Below are the consolidated answers for all **160 questions** across Weeks 1a-8. 
 
 ---
 
-### Week 3: Debugging & Testing with Copilot 📚
+### Section 3: Debugging & Testing with Copilot 📚
 
 1. B Suggests fixes based on context.
 
@@ -2217,7 +2217,7 @@ Below are the consolidated answers for all **160 questions** across Weeks 1a-8. 
 
 ---
 
-### ⚖ Week 4: Responsible AI & Security
+### ⚖ Section 4: Responsible AI & Security
 
 1. B Fairness, transparency, accountability.
 
@@ -2261,7 +2261,7 @@ Below are the consolidated answers for all **160 questions** across Weeks 1a-8. 
 
 ---
 
-### Week 5: Advanced Copilot Features 🤖
+### Section 5: Advanced Copilot Features 🤖
 
 1. B Multi-line completions generate blocks.
 
@@ -2305,7 +2305,7 @@ Below are the consolidated answers for all **160 questions** across Weeks 1a-8. 
 
 ---
 
-### 🤝 Week 6: Collaboration & Workflow Optimization
+### 🤝 Section 6: Collaboration & Workflow Optimization
 
 1. A) Acts as silent partner in pair programming.
 
@@ -2349,7 +2349,7 @@ Below are the consolidated answers for all **160 questions** across Weeks 1a-8. 
 
 ---
 
-### Week 7: Exam Practice & Mock Tests 📚
+### Section 7: Exam Practice & Mock Tests 📚
 
 1. B Tests Copilot features/responsible use.
 
@@ -2393,7 +2393,7 @@ Below are the consolidated answers for all **160 questions** across Weeks 1a-8. 
 
 ---
 
-### Week 8: Final Review & Strategy 📚
+### Section 8: Final Review & Strategy 📚
 
 1. A Review features/limitations.
 
@@ -3128,5 +3128,6 @@ Here is the consolidated answer key for the **50'Question Condensed Mock Exam**.
 50. A Copilot assists with context/examples in exam prep.
 
 ---
+
 
 
